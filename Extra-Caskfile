@@ -25,4 +25,9 @@ brew cask install clipmenu 2> /dev/null
 brew cask install iterm2
 brew cask install navicat-for-postgresql
 brew cask install andy
-brew cask install paintbrush
+# brew cask install paintbrush
+brew cask install kitematic
+brew cask install virtualbox
+brew cask install pgadmin3
+brew cask install licecap
+

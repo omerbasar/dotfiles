@@ -11,3 +11,8 @@ brew install ec2-ami-tools
 brew install influxdb
 brew install cliclick
 brew install homebrew/science/opencv --with-java
+brew install docker
+brew install boot2docker
+brew install ansible
+brew install phantomjs
+
