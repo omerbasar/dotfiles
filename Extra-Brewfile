@@ -15,4 +15,5 @@ brew install docker
 brew install boot2docker
 brew install ansible
 brew install phantomjs
+brew install app-engine-java-sdk
 

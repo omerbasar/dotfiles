@@ -2,20 +2,20 @@ brew install caskroom/cask/brew-cask
 
 brew cask install java 2> /dev/null
 brew cask install intellij-idea 2> /dev/null
-brew cask install amethyst 2> /dev/null
+# brew cask install amethyst 2> /dev/null
 brew cask install clipmenu 2> /dev/null
 brew cask install appcleaner 2> /dev/null
 # brew cask install spotify 2> /dev/null
 # brew cask install istumbler 2> /dev/null
 # brew cask install aegisub 2> /dev/null
 brew cask install ccmenu 2> /dev/null
-brew cask install cyberduck 2> /dev/null
+# brew cask install cyberduck 2> /dev/null
 brew cask install dash 2> /dev/null
 brew cask install skype 2> /dev/null
 brew cask install sequel-pro 2> /dev/null
 brew cask install firefox 2> /dev/null
 brew cask install google-chrome 2> /dev/null
-brew cask install appcode 2> /dev/null
+# brew cask install appcode 2> /dev/null
 brew cask install flash-player 2> /dev/null
 brew cask install vlc 2> /dev/null
 brew cask install dropbox 2> /dev/null
@@ -24,10 +24,14 @@ brew cask install sublime-text 2> /dev/null
 brew cask install clipmenu 2> /dev/null
 brew cask install iterm2
 brew cask install navicat-for-postgresql
-brew cask install andy
+# brew cask install andy
 # brew cask install paintbrush
 brew cask install kitematic
 brew cask install virtualbox
 brew cask install pgadmin3
 brew cask install licecap
+brew cask install bluestacks
+brew cask install wireshark
+brew cask install charles
+brew cask install andy
 
