@@ -1,0 +1,19 @@
+brew install maven
+brew install mysql
+# brew install ngrep
+# brew install heroku
+# brew install watchman
+# brew install flow
+# brew install httpie
+# brew install postgresql
+brew install awscli
+# brew install ec2-ami-tools
+# brew install influxdb
+brew install cliclick
+# brew install homebrew/science/opencv --with-java
+# brew install docker
+# brew install boot2docker
+# brew install ansible
+# brew install phantomjs
+# brew install app-engine-java-sdk
+brew install terraform
