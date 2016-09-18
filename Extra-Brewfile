@@ -16,4 +16,7 @@ brew install cliclick
 # brew install ansible
 # brew install phantomjs
 # brew install app-engine-java-sdk
-brew install terraform
+# brew install terraform
+brew install awsebcli
+brew install tesseract --all-languages
+
