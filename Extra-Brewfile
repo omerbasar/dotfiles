@@ -19,4 +19,5 @@ brew install cliclick
 # brew install terraform
 brew install awsebcli
 brew install tesseract --all-languages
+brew install keepassc
 
